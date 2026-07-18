@@ -1,6 +1,8 @@
-# AFGM-HVE
+# Avian-inspired Feature Gating Model Based on HVE
 
-This repository contains the implementation of the Avian-inspired Feature Gating Model (AFGM), built on the Humanoid Vision Engine (HVE) framework.
+Code for the Avian-inspired Feature Gating Model (AFGM) built on the Humanoid Vision Engine (HVE) framework.
+
+The implementation files are provided in the `AFGM/` folder.
 
 Original HVE repository:  
 https://github.com/gyhandy/Humanoid-Vision-Engine
