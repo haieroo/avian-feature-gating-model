@@ -7,6 +7,13 @@ The implementation files are provided in the `AFGM/` folder.
 Original HVE repository:  
 https://github.com/gyhandy/Humanoid-Vision-Engine
 
+## Quick start
+
+```bash
+cd AFGM
+pip install -r requirements.txt
+python train_afgm.py
+
 ## Overview
 
 AFGM extends the HVE framework by introducing:
