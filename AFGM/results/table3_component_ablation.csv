@@ -1,0 +1,5 @@
+Variant,Top-1 accuracy (%),Delta vs Equal-gate (pp),Incremental Delta (pp)
+Equal-gate control,37.88,,
+Dynamic gating only,38.16,+0.28,+0.28
+Dynamic gating + Reg.,38.20,+0.32,+0.04
+Full AFGM,38.34,+0.46,+0.14

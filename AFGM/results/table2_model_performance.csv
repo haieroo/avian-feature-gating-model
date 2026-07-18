@@ -1,0 +1,3 @@
+Model,Top-1 accuracy (%),Precision (%),Recall (%),F1-score (%),Parameters (M),FLOPs (G),Training time (h),Inference latency (ms/image),GPU memory (GB)
+HVE,37.72,36.54,37.56,36.30,34.145,5.456,1.26,6.78,0.65
+AFGM,38.34,37.39,38.15,36.76,34.345,5.457,0.75,9.29,0.68

@@ -1,0 +1,14 @@
+dataset: CUB-200-2011
+variants:
+  equal_gate_control:
+    texture_enhance: false
+    aux_weight: 0.0
+  dynamic_gating_only:
+    texture_enhance: false
+    aux_weight: 0.0
+  dynamic_gating_regularization:
+    texture_enhance: false
+    aux_weight: 0.02
+  full_afgm:
+    texture_enhance: true
+    aux_weight: 0.02
