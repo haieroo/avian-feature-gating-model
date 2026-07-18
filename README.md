@@ -1,4 +1,4 @@
-# AFGM based on HVE
+# AFGM 
 
 Code for the Avian-inspired Feature Gating Model (AFGM) built on the Humanoid Vision Engine (HVE) framework.
 
